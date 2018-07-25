@@ -1,0 +1,42 @@
+h2 {
+  color: #5BD29B;
+}
+
+p {
+  color: #3ACEB4;
+}
+
+*{
+  background-color: #45837E;
+  font-family: 'Comic Sans', sans-serif;
+  font-weight: 100;
+  letter-spacing: 1px;
+  text-align: center;
+}
+ul{
+  text-decoration: none;
+
+}
+.main {
+  width: 100%;
+  height: auto;
+}
+
+.aboutDivs {
+  width: 100%;
+  margin: 0;
+}
+
+.about {
+  display: inline-block;
+  float: left;
+  width: 33%;
+  margin: 0;
+}
+
+
+
+
+h1 {
+  font-size: 50px;
+}
