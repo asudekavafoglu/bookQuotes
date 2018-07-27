@@ -1,0 +1,38 @@
+#puzzel {
+	width:600px;
+  height:600px;
+	margin: 0;
+	padding: 0;
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+.cross{
+	text-align: center;
+	width:50px;
+	height:25px;
+	margin: 0;
+	padding: 0;
+	border-collapse: collapse;
+	border: 1px solid white;
+  background-color: #440066;
+}
+  .word{
+  	text-align: center;
+  	width:60px;
+  	height:25px;
+  	margin: 0;
+  	padding: 0;
+  	border-collapse: collapse;
+  	border: 1px solid white;
+    background-color: #440066;
+    color: white;
+
+  }
+tr{
+	margin: 0;
+	padding: 0;
+	border-collapse: collapse;
+}
+div{
+  align-self: center;
+}
