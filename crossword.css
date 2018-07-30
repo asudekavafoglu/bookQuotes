@@ -1,3 +1,8 @@
+body{
+background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+background-size: cover;
+}
+
 #puzzel {
 	width:600px;
   height:600px;
@@ -15,6 +20,7 @@
 	border-collapse: collapse;
 	border: 1px solid white;
   background-color: #440066;
+
 }
   .word{
   	text-align: center;
@@ -33,6 +39,7 @@ tr{
 	padding: 0;
 	border-collapse: collapse;
 }
-div{
-  align-self: center;
+
+#mainDiv{
+	margin-left: 350px;
 }
