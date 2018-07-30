@@ -18,35 +18,40 @@ function getRandomLetter(){
 }
 
 function coffee(){
-
-}
+ console.log('td clicked')
+};
 function art(){
-
-}
+  onclick="fiction()"
+  };
 function novel(){
-
-}
+  console.log('td clicked')
+ };
 function genre(){
-
-}
+  console.log('td clicked')
+ };
 function literacy(){
-
-}
+  console.log('td clicked')
+ };
+function fantasy(){
+  console.log('td clicked')
+ };
 function essay(){
-
-}
+  console.log('td clicked')
+ };
 function philosophy(){
-
-}
+  onclick="fiction()"
+  };
+function fiction(){
+ onclick="fiction()"
+};
 function romanticism(){
-
-}
+ onclick="fiction()"
+ };
 function aesthetics(){
-
-}
+  onclick="fiction()"
+  };
 function aristotle(){
-
-}
-
+  onclick="fiction()"
+  };
 function history(){
  console.log('td clicked')};

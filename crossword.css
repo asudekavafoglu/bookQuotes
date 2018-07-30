@@ -34,6 +34,182 @@ background-size: cover;
     color: white;
 
   }
+	.romanticism{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
+	.history{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
+	.literacy{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
+	.literacy .novel{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
+	.literacy .novel{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
+	.novel{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
+	.art{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
+	.philosophy{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
+	.philosophy .coffee{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #440066;
+		color: white;
+	}
+	.aristotle{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
+	.aristotle .novel{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
+	.genre{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
+	.coffee{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
+	.fantasy{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
+	.fiction{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
+	.aesthetics{
+		text-align: center;
+		width:60px;
+		height:25px;
+		margin: 0;
+		padding: 0;
+		border-collapse: collapse;
+		border: 1px solid white;
+		background-color: #6600ff;
+		color: white;
+	}
 tr{
 	margin: 0;
 	padding: 0;
