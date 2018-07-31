@@ -19,9 +19,10 @@
         	<td class="cross"> </td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
-        	<td class="romanticism" onclick="romanticism()">R</td> 10
-        	<td class="romanticism" onclick="romanticism()">O</td> 10
-        	<td class="romanticism" onclick="romanticism()">M</td> 10
+          <!-- <div id="divR"> -->
+          <td class="romanticism" onclick="romanticism()">R</td> 10
+          <td class="romanticism" onclick="romanticism()">O</td> 10
+          <td class="romanticism" onclick="romanticism()">M</td> 10
           <td class="romanticism" onclick="romanticism()">A</td> 10
           <td class="romanticism" onclick="romanticism()">N</td> 10
           <td class="romanticism" onclick="romanticism()">T</td> 10
@@ -30,6 +31,7 @@
           <td class="romanticism" onclick="romanticism()">I</td> 10
           <td class="romanticism" onclick="romanticism()">S</td> 10
           <td class="romanticism" onclick="romanticism()">M</td> 10
+          <!-- </div> -->
           <td class="cross"> </td>
         </tr>
         <tr>
@@ -191,13 +193,13 @@
         	<td class="fantasy" onclick="fantasy()" >T</td>
         	<td class="cross" ></td>
         	<td class="cross" ></td>
-        	<td class="cross" ></td>
-        	<td class="novel" onclick="novel()">N</td> 3
+        	<td class="novel" onclick="novel()">N</td>
         	<td class="novel" onclick="novel()">O</td> 3
         	<td class="novel" onclick="novel()">V</td> 3
         	<td class="novel" onclick="novel()">E</td> 3
-        	<td class="novel, literacy" onclick="novel(); literacy()">L</td> 3
-          <td class="novel, aristotle" onclick="novel(); aristotle()">E</td> 3 13
+        	<td class="novel" onclick="novel()">L</td> 3
+        	<td class="literacy" onclick="literacy()">L</td>
+          <td class="aristotle" onclick="aristotle()">E</td> 3 13
           <td class="cross"> </td>
           <td class="cross"> </td>
           <td class="cross"> </td>
@@ -218,7 +220,7 @@
         	<td class="cross"> </td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
-        	<td class="literacy" conclick="literacy()">I</td>
+        	<td class="literacy" onclick="literacy()">I</td>
           <td class="cross"> </td>
           <td class="aristotle" onclick="aristotle()">L</td> 13
           <td class="cross"> </td>
@@ -240,7 +242,7 @@
         	<td class="cross"> </td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
-          <td class="literacy" onclick="literaacy()">T</td>
+          <td class="literacy" onclick="literacy()">T</td>
           <td class="cross"> </td>
           <td class="cross"> </td>
           <td class="aristotle" onclick="aristotle()">T</td> 13
@@ -323,7 +325,7 @@
         	<td class="cross"> </td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
-        	<td class="coffee" onclick="coffee()">C</td> 1
+        	<td class="cross"></td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
@@ -331,7 +333,7 @@
           <td class="literacy" onclick="literacy()">C</td>
           <td class="cross"> </td>
           <td class="cross"> </td>
-          <td class="cross"> </td>
+          <td class="coffee" onclick="coffee()">C</td>
           <td class="cross"> </td>
           <td class="cross"> </td>
           <td class="cross"> </td>
@@ -340,20 +342,20 @@
           <td class="cross"> </td>
         </tr>
         <tr>
-          <td class="cross"> </td>
-        	<td class="philosophy" onclick="philosophy()">P</td>
+          <td class="philosophy" onclick="philosophy()">P</td>
         	<td class="philosophy" onclick="philosophy()">H</td>
         	<td class="philosophy" onclick="philosophy()">I</td>
         	<td class="philosophy" onclick="philosophy()">L</td>
-        	<td class="coffee, philosophy" onclick="coffee(); philosophy()">O</td> 1 8
+        	<td class="philosophy" onclick="philosophy()">O</td>
         	<td class="philosophy" onclick="philosophy()">S</td>
         	<td class="philosophy" onclick="philosophy()">O</td>
         	<td class="philosophy" onclick="philosophy()">P</td>
         	<td class="philosophy" onclick="philosophy()">H</td>
-          <td class="philosophy, literacy" onclick="philosophy(); literacy()">Y</td>
+        	<td class="philosophy" onclick="philosophy()" >Y</td>
+          <td class="literacy" onclick="literacy()">Y</td>
           <td class="cross"> </td>
           <td class="cross"> </td>
-          <td class="cross"> </td>
+          <td class="coffee" onclick="coffee()">O</td>
           <td class="cross"> </td>
           <td class="cross"> </td>
           <td class="cross"> </td>
@@ -367,7 +369,7 @@
         	<td class="cross"> </td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
-        	<td class="coffee" onclick="coffee()">F</td> 1
+        	<td class="cross"></td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
@@ -375,7 +377,7 @@
           <td class="cross"> </td>
           <td class="cross"> </td>
           <td class="cross"> </td>
-          <td class="cross"> </td>
+          <td class="coffee" onclick="coffee()">F</td>
           <td class="cross"> </td>
           <td class="cross"> </td>
           <td class="cross"> </td>
@@ -389,7 +391,7 @@
         	<td class="cross"> </td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
-        	<td class="coffee" onclick="coffee()">F</td> 1
+        	<td class="cross"></td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
@@ -397,7 +399,7 @@
           <td class="cross"> </td>
           <td class="cross"> </td>
           <td class="cross"> </td>
-          <td class="cross"> </td>
+          <td class="coffee" onclick="coffee()">F</td>
           <td class="cross"> </td>
           <td class="cross"> </td>
           <td class="cross"> </td>
@@ -411,7 +413,7 @@
         	<td class="cross"> </td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
-        	<td class="coffee" onclick="coffee()">E</td> 1
+        	<td class="cross"></td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
         	<td class="cross"> </td>
@@ -419,7 +421,7 @@
           <td class="cross"> </td>
           <td class="cross"> </td>
           <td class="cross"> </td>
-          <td class="cross"> </td>
+          <td class="coffee" onclick="coffee()">E</td>
           <td class="cross"> </td>
           <td class="cross"> </td>
           <td class="cross"> </td>
@@ -433,7 +435,7 @@
         <td class="cross"> </td>
         <td class="cross"> </td>
       	<td class="cross"> </td>
-      	<td class="coffee" onclick="coffee()">E</td> 1
+      	<td class="cross"></td>
         <td class="cross"> </td>
         <td class="cross"> </td>
         <td class="cross"> </td>
@@ -441,7 +443,7 @@
         <td class="cross"> </td>
         <td class="cross"> </td>
         <td class="cross"> </td>
-        <td class="cross"> </td>
+        <td class="coffee" onclick="coffee()">E</td>
         <td class="cross"> </td>
         <td class="cross"> </td>
         <td class="cross"> </td>

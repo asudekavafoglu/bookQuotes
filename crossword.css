@@ -32,7 +32,7 @@ background-size: cover;
   	border-collapse: collapse;
   	border: 1px solid white;
     background-color: #440066;
-    color: white;
+   color: white;
 
   }
 	.romanticism{
@@ -43,8 +43,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 	.history{
 		text-align: center;
@@ -54,8 +54,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 	.literacy{
 		text-align: center;
@@ -65,8 +65,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 	.literacy .novel{
 		text-align: center;
@@ -76,8 +76,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 	.literacy .novel{
 		text-align: center;
@@ -87,8 +87,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 	.novel{
 		text-align: center;
@@ -98,8 +98,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 	.art{
 		text-align: center;
@@ -109,8 +109,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 	.philosophy{
 		text-align: center;
@@ -120,8 +120,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 	.philosophy .coffee{
 		text-align: center;
@@ -132,7 +132,7 @@ background-size: cover;
 		border-collapse: collapse;
 		border: 1px solid white;
 		background-color: #440066;
-		color: white;
+		color:white;
 	}
 	.aristotle{
 		text-align: center;
@@ -142,8 +142,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 	.aristotle .novel{
 		text-align: center;
@@ -153,8 +153,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 	.genre{
 		text-align: center;
@@ -164,8 +164,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 	.coffee{
 		text-align: center;
@@ -175,8 +175,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 	.fantasy{
 		text-align: center;
@@ -186,8 +186,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 	.fiction{
 		text-align: center;
@@ -197,8 +197,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 	.aesthetics{
 		text-align: center;
@@ -208,8 +208,8 @@ background-size: cover;
 		padding: 0;
 		border-collapse: collapse;
 		border: 1px solid white;
-		background-color: #6600ff;
-		color: white;
+		background-color: #440066;
+		color:white;
 	}
 tr{
 	margin: 0;
@@ -219,4 +219,56 @@ tr{
 
 #mainDiv{
 	margin-left: 350px;
+}
+
+.clickedR {
+	background-color: #c653c6;
+}
+
+.clickedH{
+	background-color: #c653c6;
+}
+
+.strikethrough{
+	text-decoration: line-through;
+	opacity:0.5;
+}
+
+.clickedAri{
+	background-color: #c653c6;
+}
+.clickedAes{
+	background-color: #c653c6;
+}
+
+.clickedFi{
+	background-color: #c653c6;
+}
+
+.clickedPh{
+	background-color: #c653c6;
+}
+
+.clickedFa{
+	background-color: #c653c6;
+}
+
+.clickedG{
+	background-color: #c653c6;
+}
+
+.clickedL{
+	background-color: #c653c6;
+}
+
+.clickedN{
+	background-color: #c653c6;
+}
+
+.clickedArt{
+	background-color: #c653c6;
+}
+
+.clickedC{
+	background-color: #c653c6;
 }
