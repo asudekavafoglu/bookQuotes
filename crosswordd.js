@@ -18,40 +18,54 @@ function getRandomLetter(){
 }
 
 function coffee(){
- console.log('td clicked')
+ let word = event.target
+ word.style.backgroundColor = "black"
 };
 function art(){
-  onclick="fiction()"
+  let word = event.target
+  word.style.backgroundColor = "black"
   };
 function novel(){
-  console.log('td clicked')
+  let word = event.target
+  word.style.backgroundColor = "black"
  };
 function genre(){
-  console.log('td clicked')
+  let word = event.target
+  word.style.backgroundColor = "black"
  };
 function literacy(){
-  console.log('td clicked')
+  let word = event.target
+  word.style.backgroundColor = "black"
  };
 function fantasy(){
-  console.log('td clicked')
+  let word = event.target
+  word.style.backgroundColor = "black"
  };
 function essay(){
-  console.log('td clicked')
+  let word = event.target
+  word.style.backgroundColor = "black"
  };
 function philosophy(){
-  onclick="fiction()"
+  let word = event.target
+  word.style.backgroundColor = "black"
   };
 function fiction(){
- onclick="fiction()"
+  let word = event.target
+  word.style.backgroundColor = "black"
 };
 function romanticism(){
- onclick="fiction()"
+  let word = event.target
+  word.style.backgroundColor = "black"
  };
 function aesthetics(){
-  onclick="fiction()"
+  let word = event.target
+  word.style.backgroundColor = "black"
   };
 function aristotle(){
-  onclick="fiction()"
-  };
+  let word = event.target
+  word.style.backgroundColor = "black"
+};
 function history(){
- console.log('td clicked')};
+  let word = event.target
+  word.style.backgroundColor = "black"
+}
